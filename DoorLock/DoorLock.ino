@@ -12,7 +12,7 @@
 #define MOTOR_PIN_1 39
 #define MOTOR_PIN_2 40
 
-#define DOOR_CLOSE_PIN 33
+#define DOOR_CLOSE_PIN 38
 #define LOCK_PIN 34
 #define UNLOCK_PIN 35
 

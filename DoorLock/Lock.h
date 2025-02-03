@@ -93,7 +93,7 @@ struct Lock : Service::LockMechanism {  // Dimmable LED
   }
 
   void readSwitches() {
-    this->doorClosed = digitalRead(doorClosedPin) == HIGH;
+    this->doorClosed = digitalRead(doorClosedPin) == LOW;
     this->lockOpened = digitalRead(lockOpenPin) == HIGH;
     this->lockClosed = digitalRead(lookClosedPin) == LOW;
     // Serial.printf("doorClose:%d lockOpen:%d lockClose:%d\n", this->doorClosed, this->lockOpened, this->lockClosed);
