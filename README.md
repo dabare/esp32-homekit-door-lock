@@ -63,6 +63,12 @@ This project enables an ESP32-based door lock system that integrates with Apple'
 
 Contributions are welcome! Fork the repository and submit a pull request for improvements or bug fixes.
 
+## Circuit Diagram
+
+Refer to the following diagram for wiring connections:
+
+![Circuit Diagram](circuit_diagram.png)
+
 ## License
 
 This project is licensed under the MIT License. 
