@@ -73,3 +73,6 @@ Refer to the following diagram for wiring connections:
 
 This project is licensed under the MIT License. 
 
+## Demo and Full Guide Video
+https://youtu.be/zGCrUGdHpgE
+
