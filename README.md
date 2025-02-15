@@ -2,6 +2,9 @@
 
 This project enables an ESP32-based door lock system that integrates with Apple's HomeKit, allowing users to control the lock using the Apple Home app and Siri voice commands.
 
+## Demo and Full Guide Video
+https://youtu.be/zGCrUGdHpgE
+
 ## Features
 
 - **HomeKit Integration**: Control the lock via the Apple Home app or Siri.
@@ -73,6 +76,4 @@ Refer to the following diagram for wiring connections:
 
 This project is licensed under the MIT License. 
 
-## Demo and Full Guide Video
-https://youtu.be/zGCrUGdHpgE
 
